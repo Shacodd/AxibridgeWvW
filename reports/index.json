@@ -1,0 +1,35 @@
+{
+  "colorPalette": "gold-bronze",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260909-195946-omd6",
+      "title": "K A L A D Í N",
+      "commanders": [
+        "K A L A D Í N"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-10T00:59:46.000Z",
+      "dateEnd": "2026-09-10T02:07:45.635Z",
+      "dateLabel": "9/9/2026, 7:59:46 PM - 9/9/2026, 9:07:45 PM",
+      "url": "https://Shacodd.github.io/AxibridgeWvW/?report=20260909-195946-omd6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 51
+      }
+    }
+  ]
+}
