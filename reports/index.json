@@ -1,98 +1,30 @@
-{
-  "colorPalette": "gold-bronze",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260910-211143-gac8",
-      "title": "Shacodd The Sly",
-      "commanders": [
-        "Shacodd The Sly"
-      ],
-      "guild": {
-        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-        "name": "Eye Of Tyria",
-        "tag": "EYE"
-      },
-      "dateStart": "2026-09-11T02:11:43.000Z",
-      "dateEnd": "2026-09-11T03:59:21.393Z",
-      "dateLabel": "9/10/2026, 9:11:43 PM - 9/10/2026, 10:59:21 PM",
-      "url": "https://Shacodd.github.io/AxibridgeWvW/?report=20260910-211143-gac8",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Samarog",
-            "value": 2,
-            "color": "#64748b"
-          },
-          {
-            "name": "Soulless Horror",
-            "value": 2,
-            "color": "#64748b"
-          },
-          {
-            "name": "Old Lion's Court",
-            "value": 1,
-            "color": "#64748b"
-          },
-          {
-            "name": "Siege the Stronghold",
-            "value": 1,
-            "color": "#64748b"
-          },
-          {
-            "name": "Keep Construct",
-            "value": 1,
-            "color": "#64748b"
-          },
-          {
-            "name": "Mursaat Overseer",
-            "value": 1,
-            "color": "#64748b"
-          },
-          {
-            "name": "Whisper of Jormag",
-            "value": 1,
-            "color": "#64748b"
-          },
-          {
-            "name": "Fraenir of Jormag",
-            "value": 1,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 1
-      }
+[
+  {
+    "id": "20260909-195946-omd6",
+    "title": "K A L A D Í N",
+    "commanders": [
+      "K A L A D Í N"
+    ],
+    "guild": {
+      "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+      "name": "Eye Of Tyria",
+      "tag": "EYE"
     },
-    {
-      "id": "20260909-195946-omd6",
-      "title": "K A L A D Í N",
-      "commanders": [
-        "K A L A D Í N"
+    "dateStart": "2026-09-10T00:59:46.000Z",
+    "dateEnd": "2026-09-10T02:07:45.635Z",
+    "dateLabel": "9/9/2026, 7:59:46 PM - 9/9/2026, 9:07:45 PM",
+    "url": "https://Shacodd.github.io/AxibridgeWvW/?report=20260909-195946-omd6",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 35,
+          "color": "#ffffff"
+        }
       ],
-      "guild": {
-        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
-        "name": "Eye Of Tyria",
-        "tag": "EYE"
-      },
-      "dateStart": "2026-09-10T00:59:46.000Z",
-      "dateEnd": "2026-09-10T02:07:45.635Z",
-      "dateLabel": "9/9/2026, 7:59:46 PM - 9/9/2026, 9:07:45 PM",
-      "url": "https://Shacodd.github.io/AxibridgeWvW/?report=20260909-195946-omd6",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 35,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 51
-      }
+      "avgSquadSize": 30,
+      "avgEnemySize": 51
     }
-  ]
-}
+  }
+]
